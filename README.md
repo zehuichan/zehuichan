@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=zehuichan&show_icons=true&theme=react)
+![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=zehuichan&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehuichan)
